@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moibrahem98/react-market-basket/static/css/main.e6bb01d6.chunk.css",
+    "main.js": "/moibrahem98/react-market-basket/static/js/main.2f73ab18.chunk.js",
+    "main.js.map": "/moibrahem98/react-market-basket/static/js/main.2f73ab18.chunk.js.map",
+    "runtime-main.js": "/moibrahem98/react-market-basket/static/js/runtime-main.feeeb43a.js",
+    "runtime-main.js.map": "/moibrahem98/react-market-basket/static/js/runtime-main.feeeb43a.js.map",
+    "static/js/2.2486421f.chunk.js": "/moibrahem98/react-market-basket/static/js/2.2486421f.chunk.js",
+    "static/js/2.2486421f.chunk.js.map": "/moibrahem98/react-market-basket/static/js/2.2486421f.chunk.js.map",
+    "index.html": "/moibrahem98/react-market-basket/index.html",
+    "precache-manifest.428ed6ba773ea2adbb6e99f781268935.js": "/moibrahem98/react-market-basket/precache-manifest.428ed6ba773ea2adbb6e99f781268935.js",
+    "service-worker.js": "/moibrahem98/react-market-basket/service-worker.js",
+    "static/css/main.e6bb01d6.chunk.css.map": "/moibrahem98/react-market-basket/static/css/main.e6bb01d6.chunk.css.map",
+    "static/js/2.2486421f.chunk.js.LICENSE.txt": "/moibrahem98/react-market-basket/static/js/2.2486421f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feeeb43a.js",
+    "static/js/2.2486421f.chunk.js",
+    "static/css/main.e6bb01d6.chunk.css",
+    "static/js/main.2f73ab18.chunk.js"
+  ]
+}
